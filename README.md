@@ -106,8 +106,7 @@ curl "http://localhost:4000/api/recording-videos?isRecordingStarted=false&isStar
   {
     "id": 2,
     "endAt": "20 12 PM 07/02/2021",
-    "price": 10,
-    "url": null
+    "price": 10
   }
 ]
 ```
